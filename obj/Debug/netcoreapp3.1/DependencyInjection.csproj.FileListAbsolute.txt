@@ -1,0 +1,13 @@
+E:\Research\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.exe
+E:\Research\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.deps.json
+E:\Research\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.json
+E:\Research\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.dev.json
+E:\Research\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.dll
+E:\Research\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.pdb
+E:\Research\DependencyInjection\bin\Debug\netcoreapp3.1\Autofac.dll
+E:\Research\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csprojAssemblyReference.cache
+E:\Research\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfoInputs.cache
+E:\Research\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfo.cs
+E:\Research\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CopyComplete
+E:\Research\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.dll
+E:\Research\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.pdb
